@@ -1,4 +1,5 @@
 <?php
+namespace tigokr\Slack;
 /**
  * Simple abstraction of Slack API
  *
