@@ -1,25 +1,8 @@
-"repositories": [
-    {
-        "type": "package",
-        "package": {
-            "name": "tigokr/slack-api",
-            "version": "v1.0",
-            "source": {
-                "url": "git://github.com/tigokr/slack-api.git",
-                "type": "git",
-                "reference": "v1.0"
-            },
-            "repositories": [
-                {
-                    "type": "vcs",
-                    "url": "https://github.com/tigokr/slack-api"
-                }
-            ],
-            "autoload": {
-                "psr-0" : {
-                    "tigokr\\Slack" : "src"
-                }
-            }
+{
+    "name": "tigokr/slack-api",
+    "autoload": {
+        "psr-0" : {
+            "tigokr\\Slack" : "src"
         }
     }
-],
+}
