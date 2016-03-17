@@ -1,6 +1,8 @@
 Slack API
 =========
 
+Fork from https://github.com/10w042/slack-api
+
 A super simple wrapper for Slack API
 
 Requires > PHP 5.
