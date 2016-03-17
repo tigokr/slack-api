@@ -9,6 +9,12 @@
                 "type": "git",
                 "reference": "v1.0"
             },
+            "repositories": [
+                {
+                    "type": "vcs",
+                    "url": "https://github.com/tigokr/slack-api"
+                }
+            ],
             "autoload": {
                 "psr-0" : {
                     "tigokr\\Slack" : "src"
