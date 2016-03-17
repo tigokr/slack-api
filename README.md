@@ -1,6 +1,8 @@
 Slack API
 =========
 
+
+
 Fork from https://github.com/10w042/slack-api
 
 A super simple wrapper for Slack API
@@ -10,7 +12,10 @@ Requires > PHP 5.
 Installation
 ------------
 
-Download and include the php file.
+```
+composer require tigokr/slack-api
+```
+Or download and include the php file.
 
 Usage
 -----
