@@ -1,8 +1,8 @@
 {
     "name": "tigokr/slack-api",
     "autoload": {
-        "psr-0" : {
-            "tigokr\\Slack" : "src"
+        "psr-4" : {
+            "tigokr\\Slack\\" : "src"
         }
     }
 }
